@@ -1,0 +1,19 @@
+{
+    "products" : [
+        { "name": "Watch", "image": "images/watch.png", "price": 25, "quantity": 1 },
+        { "name": "Apple Watch", "image": "images/apw.jpg", "price": 20, "quantity": 1 },
+        { "name": "Laptop", "image": "images/laptop.jpg", "price": 100, "quantity": 1 },
+        { "name": "samsung galaxy S21", "image": "images/s21.jpg", "price": 200, "quantity": 1 },
+        { "name": "điện thoại Bphone", "image": "images/bphone.jpg", "price": 50, "quantity": 1 },
+        { "name": "Tivi Samsung 70 inch", "image": "images/tvss1.jpg", "price": 450, "quantity": 1 },
+        { "name": "tai nghe bluetooth", "image": "images/bluetooth-ear.jpg", "price": 500, "quantity": 1 },
+        { "name": "tai nghe bluetooth chống nước", "image": "images/bluetooth-ear1.jpg", "price": 510, "quantity": 1 },
+        { "name": "tay cầm liên quân", "image": "images/tay-cam.jpg", "price": 8, "quantity": 1 },
+        { "name": "Chuột Không Dây HXSJ", "image": "images/mouse1.jpg", "price": 10, "quantity": 1 },
+        { "name": "Bàn phím Apple MK2A3", "image": "images/keyboard.jpg", "price": 105, "quantity": 1 },
+        { "name": "Asus gaming laptop", "image": "images/lap-gaming.png", "price": 2000, "quantity": 1 }
+      ]  
+}
+  
+  
+  
